@@ -1,0 +1,17 @@
+{
+  "name": "arvic-vapor",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "npm:@vue-vapor/vue@^3.20240714.0-6608bb3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "npm:@vue-vapor/vite-plugin-vue@^0.0.0-alpha.6"
+  }
+}
